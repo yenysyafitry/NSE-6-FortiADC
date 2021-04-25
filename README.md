@@ -10,7 +10,7 @@ d. config system interface
 d. config system interface 
 </details></p>
 
-
+</br>
 <p align="justify"> 
 2. Which of the following statements about FortiADC's Geo IP database are true? (Choose two.)</br>
 a. You can create up to 512 Geo IP policies in FortiADC.</br>
@@ -22,7 +22,7 @@ d. In Layer 7, FortiADC blocks access after the handshake is completed.
   c. In Layer 4, FortiADC blocks access after receiving the first TCP SYN packet. </br>d. In Layer 7, FortiADC blocks access after the handshake is completed. 
 </details></p>
 
-
+</br>
 <p align="justify"> 
 3. What is a possible side effect of downgrading FortiADC firmware to a previous version?</br>
 a. Device event logs could become unreadable.</br>
@@ -34,7 +34,7 @@ d. Certain settings could revert to their factory default values.
 d. Certain settings could revert to their factory default values. 
 </details></p>
 
-
+</br>
 <p align="justify"> 
 4. Which one of the following shared system resources is a required configuration element in a FortiADC global load balancing solution?</br>
 a. Services</br>
@@ -47,7 +47,7 @@ c. Addresses
 
 </details></p>
 
-
+</br>
 <p align="justify"> 
 5. Which of the following command line network troubleshooting utilities are supported by FortiADC? (Choose two.)</br>
 a. netstat</br>
@@ -59,7 +59,7 @@ d. ping
   c. nslookup </br>d. ping 
 </details></p>
 
-
+</br>
 <p align="justify"> 
 6. Which of the following statements about remote DNS servers in FortiADC are true? (Choose two.)</br>
 a. They are an optional configuration element in general DNS settings. </br>
@@ -71,7 +71,7 @@ d. They are a configuration element of DNS zones and DNS policies.
 b. They allow the administrator to configure a local DNS server that does not need to connect to Internet DNS servers. </br>d. They are a configuration element of DNS zones and DNS policies.
 </details></p>
 
-
+</br>
 <p align="justify"> 
  7. Which type of NAT should the FortiADC administrator configure in order to provide port address translation for a network?</br>
 a. One-to-one NAT </br>
@@ -84,7 +84,7 @@ d. Destination NAT
 a. One-to-one NAT 
 </details></p>
 
-
+</br>
 <p align="justify"> 
 8. Which of the following are advantages of SSL offload and acceleration in FortiADC? (Choose two.)</br>
 a. Ensures the quality of SIP connections.</br>
@@ -96,7 +96,7 @@ d. Reduces outgoing link bandwidth usage
   b. Reduces traffic between FortiADC and the back-end servers. (benar) </br>c. Reduces CPU usage on the server, because the server doesn't need to execute crypto tasks.
 </details></p>
 
-
+</br>
 <p align="justify"> 
 9. Which setting should a FortiADC administrator use to direct more traffic to a particular link?</br>
 a. Health check</br>
@@ -108,7 +108,7 @@ d. Weight
 d. Weight
 </details></p>
 
-
+</br>
 <p align="justify"> 
 10. Which one of the following load balancing methods is supported in FortiADC Layer 7 load balancing?</br>
 a. Direct routing</br>
@@ -118,388 +118,4 @@ d. Fastest response
 <details>
 <summary markdown="span">Answer :</summary>
 c. Round robin
-</details></p>
-
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
 </details></p>
