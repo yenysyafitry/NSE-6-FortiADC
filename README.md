@@ -42,7 +42,7 @@ b. Health Check</br>
 c. Addresses</br>
 d. Schedule Group 
 <details>
-  d. Schedule Group ( salah)
+c. Addresses
 <summary markdown="span">Answer :</summary>
 
 </details></p>
@@ -68,7 +68,7 @@ c. They are a required configuration element in global server load balancing.</b
 d. They are a configuration element of DNS zones and DNS policies.
 <details>
 <summary markdown="span">Answer :</summary>
-b. They allow the administrator to configure a local DNS server that does not need to connect to Internet DNS servers.(benar) </br>d. They are a configuration element of DNS zones and DNS policies.
+b. They allow the administrator to configure a local DNS server that does not need to connect to Internet DNS servers. </br>d. They are a configuration element of DNS zones and DNS policies.
 </details></p>
 
 
@@ -105,7 +105,7 @@ c. Status </br>
 d. Weight
 <details>
 <summary markdown="span">Answer :</summary>
-c. Status (Salah)</br> a. Health check (salah)
+d. Weight
 </details></p>
 
 
@@ -117,7 +117,7 @@ c. Round robin</br>
 d. Fastest response
 <details>
 <summary markdown="span">Answer :</summary>
-b. Least connections (Salah)
+c. Round robin
 </details></p>
 
 
