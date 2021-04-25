@@ -42,7 +42,7 @@ b. Health Check</br>
 c. Addresses</br>
 d. Schedule Group 
 <details>
-  d. Schedule Group  salah
+  d. Schedule Group ( salah)
 <summary markdown="span">Answer :</summary>
 
 </details></p>
@@ -68,7 +68,7 @@ c. They are a required configuration element in global server load balancing.</b
 d. They are a configuration element of DNS zones and DNS policies.
 <details>
 <summary markdown="span">Answer :</summary>
-b. They allow the administrator to configure a local DNS server that does not need to connect to Internet DNS servers.(benar) </br>a. They are an optional configuration element in general DNS settings. (salah)
+b. They allow the administrator to configure a local DNS server that does not need to connect to Internet DNS servers.(benar) </br>d. They are a configuration element of DNS zones and DNS policies.
 </details></p>
 
 
@@ -93,7 +93,7 @@ c. Reduces CPU usage on the server, because the server doesn't need to execute c
 d. Reduces outgoing link bandwidth usage 
 <details>
 <summary markdown="span">Answer :</summary>
-  b. Reduces traffic between FortiADC and the back-end servers. (benar) </br>d. Reduces outgoing link bandwidth usage (Salah)
+  b. Reduces traffic between FortiADC and the back-end servers. (benar) </br>c. Reduces CPU usage on the server, because the server doesn't need to execute crypto tasks.
 </details></p>
 
 
@@ -105,7 +105,7 @@ c. Status </br>
 d. Weight
 <details>
 <summary markdown="span">Answer :</summary>
-c. Status (Salah)
+c. Status (Salah)</br> a. Health check (salah)
 </details></p>
 
 
@@ -117,7 +117,7 @@ c. Round robin</br>
 d. Fastest response
 <details>
 <summary markdown="span">Answer :</summary>
-b. Least connections 
+b. Least connections (Salah)
 </details></p>
 
 
